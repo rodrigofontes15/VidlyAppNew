@@ -11,5 +11,5 @@ namespace VidlyApp.Models
         public string Name { get; set; }
     }
 
-    //movies/random -> create controller movies with action called random
+    
 }
